@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  body{
+    background: #F0F0F0;
+    padding-bottom: 3.92rem /* 98/25 */;
+    box-sizing: border-box;
+  }
+  ul,li,ol,dl{
+      list-style: none;
+  }
+  button{
+      border: none;
+      display: block;
+      margin: 0 auto;
+      border-radius: .8rem /* 20/25 */;
+          outline: none;
+  }
+  input{
+      border: none;
+      outline: none;
+  }
+  
